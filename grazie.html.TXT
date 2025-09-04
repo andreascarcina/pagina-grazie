@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Grazie per l'acquisto</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f9f9f9;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    }
+    h1 { color: #2c7a7b; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Grazie per l'acquisto!</h1>
+    <p>Il tuo pagamento è stato ricevuto correttamente.</p>
+    <p>Riceverai i tuoi beat tramite <strong>Airbit</strong> e una conferma via email da PayPal.</p>
+  </div>
+</body>
+</html>
